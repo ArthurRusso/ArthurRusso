@@ -1,6 +1,4 @@
 <h1 align="center">Hey World 👋, I'm Arthur Russo</h1>
-<h3 align="center">I'm a fullstack developer and passionate about programming</h3>
-
 <div align="center">
   <a href="https://github.com/ArthurRusso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRusso&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
