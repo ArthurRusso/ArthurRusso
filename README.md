@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/ArthurRusso">
     sigma-five.vercel.app
-  <img height="180em" src="https://github-readme-stats.sigma-five.vercel.app/api?username=ArthurRusso&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurRusso&theme=react&line_height=40&hide=css"/> </a>
   <img height="180em" src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=ArthurRusso&layout=compact&langs_count=7&theme=react"/>
   <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurRusso&theme=react" alt="ArthurRusso" /></p>
 </div>
